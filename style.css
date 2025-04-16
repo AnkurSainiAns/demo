@@ -1,0 +1,11 @@
+.banner {
+    width: 100%;
+    margin-left: 0px;
+    height: 500px;
+    background-color: red;
+    background-image: url(main.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+}
