@@ -256,3 +256,31 @@ nav {
     margin: 0px;
     gap: 20px;
 }
+.cate{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    gap: 20px;
+}
+.cat-list{
+    width: 1000px;
+    height: 800px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin: 50px;
+    margin-left: 200px;
+    background-image: url(lead-indian-bridal-makeup-fotowalle.webp);
+    background-size: cover;
+
+}
+.lis{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 50px;
+}
