@@ -284,3 +284,15 @@ nav {
     margin-top: 50px;
     font-size: 50px;
 }
+.foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    margin-top: 50px;
+    padding: 20px;
+    gap: 140px;
+    
+
+}
